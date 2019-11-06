@@ -1,5 +1,45 @@
-body{
+body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(18, 134, 180);
     background: rgb(230, 207, 180);
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    background-color: #dadada8f;
+}
+
+main {
+    background-color: #dadada8f;
+}
+
+section {
+    width: 95%;
+    margin: auto;
+    margin-top: 25px;
+}
+.logo {
+    margin: auto;
+    width: 250px;
+}
+.logo img {
+    height: 99px;
+    width: 250px;
+}
+#equipe {
+    display: flex;
+    margin: auto;
+    width: 90%;
+}
+
+.profil {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.profil img {
+    width: 99px;
+    border-radius: 55%;
+    height: 88px;
 }
