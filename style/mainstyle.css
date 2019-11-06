@@ -1,17 +1,13 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(18, 134, 180);
-    background: rgb(230, 207, 180);
+    background: rgb(219, 231, 236);
     width: 70%;
     margin: auto;
 }
 
-header {
-    background-color: #dadada8f;
-}
-
 main {
-    background-color: #dadada8f;
+    background-color: #ece8e8;
 }
 
 section {
@@ -29,6 +25,7 @@ section {
 }
 #equipe {
     text-align: center;
+    box-shadow: 1px 1px 1px 1px;
 }
 #Citation {
     display: flex;
@@ -39,6 +36,7 @@ section {
 .profil {
     text-align: center;
     margin-top: 25px;
+    width: 25%;
 }
 
 .profil img {
