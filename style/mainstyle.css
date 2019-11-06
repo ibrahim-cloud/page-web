@@ -6,10 +6,6 @@ body {
     margin: auto;
 }
 
-main {
-    background-color: #ece8e8;
-}
-
 section {
     width: 95%;
     margin: auto;
@@ -25,12 +21,13 @@ section {
 }
 #equipe {
     text-align: center;
-    box-shadow: 1px 1px 1px 1px;
 }
 #Citation {
     display: flex;
     margin: auto;
     width: 90%;
+    background-color: #ece8e8;
+    box-shadow: 1px 1px 1px 1px;
 }
 
 .profil {
@@ -48,4 +45,24 @@ h1 {
     font-size: 22px;
     font-family: cursive;
     font-weight: bold;
+    text-align: center;
+}
+#tea {
+    display: flex;
+    text-align: center;
+}
+.avantages {
+    background: #ece8e8;
+    border-radius: 25%;
+    margin: 5px;
+    width: 25%;
+    box-shadow: 1px 1px 1px 1px #1286b4;
+}
+h2 {
+    font-size: 16px;
+    margin: 15px;
+}
+.avantages p {
+    font-size: 15px;
+    margin: 11px;
 }
