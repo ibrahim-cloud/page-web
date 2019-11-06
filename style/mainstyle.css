@@ -28,6 +28,9 @@ section {
     width: 250px;
 }
 #equipe {
+    text-align: center;
+}
+#Citation {
     display: flex;
     margin: auto;
     width: 90%;
@@ -42,4 +45,9 @@ section {
     width: 99px;
     border-radius: 55%;
     height: 88px;
+}
+h1 {
+    font-size: 22px;
+    font-family: cursive;
+    font-weight: bold;
 }
